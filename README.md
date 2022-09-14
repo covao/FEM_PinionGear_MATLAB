@@ -9,7 +9,7 @@ Sample code to analysis 6T pinion gear.
 ``` MATLAB
 mkdir('./fem_demo');
 cd('./fem_demo');
-websave('train_donkeycar_dl_model.mlx','https://github.com/covao/FEM_PinionGear_MATLAB/raw/main/FEMAnalysisPinionGear.mlx');
+websave('FEMAnalysisPinionGear.mlx','https://github.com/covao/FEM_PinionGear_MATLAB/raw/main/FEMAnalysisPinionGear.mlx');
 websave('pinion_gear_6t_1.stl','https://github.com/covao/FEM_PinionGear_MATLAB/raw/main/pinion_gear_6t_1.stl');
 websave('pinion_gear_6t_2.stl','https://github.com/covao/FEM_PinionGear_MATLAB/raw/main/pinion_gear_6t_2.stl');
 open('FEMAnalysisPinionGear.mlx');
