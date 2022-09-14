@@ -1,6 +1,9 @@
 # FEM Structual Analysis of Pinion Gear in MATLAB
 
 Sample code to analysis 6T pinion gear.
+## Requirement
+- MATLAB 2021a or later
+- Partial Differential Equation Toolbox
 
 ## MATLAB command to download and open the demo (MATLAB live script)
 ``` MATLAB
@@ -13,4 +16,6 @@ open('FEMAnalysisPinionGear.mlx');
 
 ```
 MATLAB live script file [FEMAnalysisPinionGear.mlx](https://github.com/covao/Train_DonkeyCar_MATLAB/raw/main/FEMAnalysisPinionGear.mlx)  
+
+![FEMAnalysisPinionGear.jpg](img/FEMAnalysisPinionGear.jpg)  
 
