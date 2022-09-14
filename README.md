@@ -15,7 +15,7 @@ websave('pinion_gear_6t_2.stl','https://github.com/covao/FEM_PinionGear_MATLAB/r
 open('FEMAnalysisPinionGear.mlx');
 
 ```
-MATLAB live script file [FEMAnalysisPinionGear.mlx](https://github.com/covao/Train_DonkeyCar_MATLAB/raw/main/FEMAnalysisPinionGear.mlx)  
+MATLAB live script file [FEMAnalysisPinionGear.mlx](https://github.com/covao/FEM_PinionGear_MATLAB/raw/main/FEMAnalysisPinionGear.mlx)  
 
 ![FEMAnalysisPinionGear.jpg](img/FEMAnalysisPinionGear.jpg)  
 
