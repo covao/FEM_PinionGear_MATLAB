@@ -1,4 +1,4 @@
-# FEM Structual Analysis of Pinion Gear in MATLAB
+# FEM Structural Analysis of Pinion Gear in MATLAB
 
 Sample code to analysis 6T pinion gear.
 ## Requirement
